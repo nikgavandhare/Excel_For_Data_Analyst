@@ -62,6 +62,9 @@ This repository is designed to help you learn Excel for Data Analysis from scrat
 2. Use the Projects folder to practice real-world data analysis tasks.
 3. Refer to the Resources folder for quick tips and templates.
 
+   
+📷 Screenshots
+![Screenshot 2025-01-31 122214](https://github.com/user-attachments/assets/fd9e5de1-2479-410e-acda-fd91a4809dca)
 
 
 
