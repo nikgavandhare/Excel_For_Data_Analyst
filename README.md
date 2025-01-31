@@ -24,7 +24,6 @@ This repository is designed to help you learn Excel for Data Analysis from scrat
 
 ---
 
-## 📂 **Folder Structure**
 
 
 ---
@@ -57,25 +56,28 @@ This repository is designed to help you learn Excel for Data Analysis from scrat
 
 
 
-📊 How to Use
-Explore the Tutorials folder to learn step-by-step Excel features.
-Use the Projects folder to practice real-world data analysis tasks.
-Refer to the Resources folder for quick tips and templates.
+📊 How to Use:
+
+1. Explore the Tutorials folder to learn step-by-step Excel features.
+2. Use the Projects folder to practice real-world data analysis tasks.
+3. Refer to the Resources folder for quick tips and templates.
 
 
 
 🤝 Contributing
 Contributions are welcome! To contribute:
 
-Fork the repository.
-Create a feature branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add feature').
-Push to the branch (git push origin feature-branch).
-Open a Pull Request.
+1. Fork the repository.
+2. Create a feature branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -m 'Add feature').
+4. Push to the branch (git push origin feature-branch).
+5. Open a Pull Request.
 
 
 📬 Contact
-📧 Nikita Gaondhare
+📧 gavandharenikita@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikita-gaondhare-9511242562-/)
+
 
 Feel free to copy and customize this for your repository! Let me know if you'd like any adjustments. 😊
 
